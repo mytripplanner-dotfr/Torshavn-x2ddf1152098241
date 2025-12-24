@@ -1,0 +1,149 @@
+{
+  "pays": "Îles Féroé",
+  "drapeau": "🇫🇴",
+  "symbole": "🐑",
+  "titre": "Escapade relaxante à Tórshavn et ses environs",
+  "budget_total": "1250 €",
+  "duree": "3 jours",
+  "temps_vol": "5h30 (depuis Paris, france)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée en douceur à Tórshavn",
+      "legende": "Après un vol pittoresque, installez-vous dans la capitale la plus petite du monde. Flânez dans les ruelles colorées de Tinganes et découvrez l'atmosphère unique de cette ville insulaire, porte d'entrée vers les merveilles féroïennes. Une première journée légère pour s'acclimater.",
+      "lieu": "Tórshavn",
+      "activites": [
+        "<strong>🛬 Arrivée à l'aéroport de Vágar (FAE)</strong>: Récupérez votre voiture de location et profitez des paysages époustouflants sur le trajet vers Tórshavn.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez vos quartiers dans un hôtel confortable au cœur de Tórshavn pour vous reposer après le voyage.",
+        "<strong>🚶‍♂️ Balade dans le quartier historique de Tinganes</strong>: Explorez les maisons en bois aux toits de tourbe et le parlement le plus ancien du monde, une immersion fascinante dans l'histoire féroïenne."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Location de voiture",
+          "texte": "Une voiture est essentielle pour explorer les îles Féroé. Réservez-la à l'avance pour l'aéroport de Vágar afin d'assurer sa disponibilité."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Immersion historique et paysages côtiers",
+      "legende": "Découvrez l'histoire millénaire des Féroé à Kirkjubøur, puis laissez-vous émerveiller par les panoramas côtiers. Une journée dédiée à la beauté naturelle et au patrimoine culturel, loin de l'agitation, avec des balades douces et des vues imprenables.",
+      "lieu": "Kirkjubøur & Gásadalur",
+      "activites": [
+        "<strong>⛪ Visite du site historique de Kirkjubøur</strong>: Explorez la cathédrale de Magnus inachevée, l'église Saint-Olav et la plus ancienne ferme en bois habitée du monde, un voyage dans le temps.",
+        "<strong>🚗 Route panoramique vers l'île de Vágar</strong>: Profitez des paysages spectaculaires en traversant les tunnels et en longeant les fjords, une expérience visuelle apaisante.",
+        "<strong>🌊 Découverte de la cascade de Múlafossur à Gásadalur</strong>: Admirez l'emblématique cascade se jetant directement dans l'océan, un spectacle naturel apaisant et photogénique, accessible par une courte marche."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Conseil photo",
+          "texte": "Les paysages féroïens sont incroyables. N'oubliez pas votre appareil photo et prévoyez des batteries supplémentaires pour immortaliser ces moments."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🚢",
+      "titre": "Charme insulaire et retour",
+      "legende": "Profitez d'une dernière matinée pour explorer une île voisine ou vous imprégner de l'ambiance de Tórshavn. Une conclusion paisible à votre séjour, avant de reprendre le chemin de l'aéroport, la tête remplie de souvenirs et de la sérénité des Féroé.",
+      "lieu": "Nólsoy / Tórshavn",
+      "activites": [
+        "<strong>🚢 Excursion relaxante à l'île de Nólsoy</strong>: Prenez un court ferry depuis Tórshavn pour explorer ce charmant village et ses maisons colorées, une escapade paisible et authentique, idéale pour une balade douce.",
+        "<strong>☕ Matinée libre à Tórshavn et shopping local</strong>: Profitez des cafés chaleureux et des boutiques d'artisanat pour trouver des souvenirs uniques et vous détendre avant le départ.",
+        "<strong>✈️ Départ de l'aéroport de Vágar (FAE)</strong>: Retournez à l'aéroport, restitution de la voiture de location et envol vers Paris, france, avec des souvenirs inoubliables."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🌦️",
+          "titre": "Météo imprévisible",
+          "texte": "Le temps change rapidement aux Féroé. Prévoyez toujours des couches de vêtements et un imperméable, même en été, pour être prêt à toute éventualité."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "A partir de 489 €/pers",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "Environ 125 €/pers (location voiture + essence)",
+      "symbole": "🚗"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "Environ 300 €/pers (3 jours, budget moyen)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "Environ 270 €/pers (3 nuits, hôtel 3*)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "Environ 50 €/pers (ferry, musées)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Juin à Septembre (températures plus douces, jours plus longs)",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Le temps est très changeant aux Îles Féroé. Prévoyez des vêtements chauds, imperméables et coupe-vent, même en été.",
+      "symbole": "🍁"
+    },
+    {
+      "titre": "La couronne féroïenne (DKK) est liée à la couronne danoise. Les cartes de crédit sont largement acceptées, mais un peu de liquide peut être utile.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Permis français suffisant pour la location de voiture. Conduite à droite. Attention aux nombreux moutons sur les routes, ils ont la priorité!",
+      "symbole": "🚗"
+    },
+    {
+      "titre": "Bonne couverture mobile et Wi-Fi disponible dans la plupart des hébergements et cafés. Une eSIM peut être pratique.",
+      "symbole": "📶"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Vols",
+      "titre": "Réserve ton vol",
+      "url": "https://www.kayak.fr/flights/CDG-FAE/2026-05-20/2026-05-23",
+      "symbole": "🛬"
+    },
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Visit Faroe Islands",
+      "url": "https://visitfaroeislands.com/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Météo locale",
+      "titre": "Météo Tórshavn",
+      "url": "https://www.yr.no/en/forecast/hourly-table/2-2610345/Faroe%20Islands/T%C3%B3rshavn",
+      "symbole": "🌤️"
+    },
+    {
+      "legende": "Horaires des ferries",
+      "titre": "SSL (Transports publics)",
+      "url": "https://www.ssl.fo/en/timetables/ferry-timetables/",
+      "symbole": "🚢"
+    }
+  ]
+}
